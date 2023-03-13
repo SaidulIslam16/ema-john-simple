@@ -1,3 +1,11 @@
 .cart-components{
-    padding: 0 20px;
+    padding: 20px 20px;
+    position: sticky;
+    top: 0;
+}
+.cart-heading{
+    background-color: orange;
+    padding: 10px;
+    border-radius: 5px;
+    /* color: white; */
 }
